@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29414690/README.md)
 # GeekMagic SmallTV-Ultra - Desktop Controller
 
 A Windows desktop app to control your **GeekMagic SmallTV-Ultra** smart display from your PC - no browser required.
