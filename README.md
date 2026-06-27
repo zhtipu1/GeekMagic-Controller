@@ -85,8 +85,3 @@ A Windows desktop app to control your **GeekMagic SmallTV-Ultra** smart display 
 
 This is an unofficial third-party application. GeekMagic and SmallTV-Ultra are trademarks of their respective owners. This app communicates with the device over its local HTTP API and does not modify any firmware.
 
----
-
-## Credits
-
-**App Developer** - Zahidul Haque Tipu
