@@ -1,6 +1,6 @@
-# GeekMagic SmallTV-Ultra - Desktop Controller
+# GeekMagic SmallTV-Ultra - Controller App
 
-A Windows desktop app to control your **GeekMagic SmallTV-Ultra** smart display from your PC - no browser required.
+A GUI app to control your **GeekMagic SmallTV-Ultra** smart display from your PC and Mobile - no browser required.
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue) ![Platform](https://img.shields.io/badge/platform-Android-green) ![Device](https://img.shields.io/badge/device-GeekMagic--SmallTV--Ultra-green) 
 
