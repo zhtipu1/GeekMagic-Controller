@@ -2,7 +2,7 @@
 
 A GUI app to control your **GeekMagic SmallTV-Ultra** smart display from your PC and Mobile - no browser required.
 
-![Platform](https://img.shields.io/badge/platform-Windows-blue) ![Platform](https://img.shields.io/badge/platform-Android-green) ![Device](https://img.shields.io/badge/device-GeekMagic--SmallTV--Ultra-green) 
+![Platform](https://img.shields.io/badge/platform-Windows-blue) ![Platform](https://img.shields.io/badge/platform-MacOS-orange) ![Platform](https://img.shields.io/badge/platform-Android-green) ![Device](https://img.shields.io/badge/device-GeekMagic--SmallTV--Ultra-green) 
 
 ---
 
